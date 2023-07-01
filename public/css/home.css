@@ -116,7 +116,7 @@ header ul #button button:hover{
     height: 70%;
 }
 
-#first_container>button {
+#first_container button {
     transform: translateY(-10px);
     width: 175px;
     height: 60px;
@@ -124,7 +124,7 @@ header ul #button button:hover{
     border-radius: 50px;
     font-weight:bolder;
 }
-#first_container>button:hover{
+#first_container button:hover{
     background-color: rgba(240, 248, 255, 0.726);
     cursor: pointer;
 }
